@@ -23,6 +23,15 @@
 - ✨ Favorite tech quote: 'Any fool can write code that a computer can understand. Good programmers write code that humans can understand.' – Martin Fowler
 - 👋Feel free to explore my repositories and let's collaborate to build something amazing together! 🚀
 ---
+<h2 align="center">✨ Total Profile Views ✨</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40">
+  <img src="https://komarev.com/ghpvc/?username=BarkhaKumari-1&label=👀%20Visitors&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40">
+</p>
+
+
 ## 📊 GitHub Stats  
 ![Barkha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarkhaKumari-1&show_icons=true&theme=radical)
 ---
