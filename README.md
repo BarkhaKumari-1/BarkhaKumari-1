@@ -84,6 +84,18 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
+<h2 align="center">📩 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/barkha-kumari-5195b1253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <b>Let's connect and grow together! 🚀</b>
+</p>
 
 <!---
 BarkhaKumari-1/BarkhaKumari-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
