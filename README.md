@@ -1,4 +1,19 @@
-## 👋 Hi, I’m @BarkhaKumari-1
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey, I'm Barkha Kumari!
+</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" height="150">
+</p>
+
+---
+
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Programming 
 - 💞️ I’m looking to collaborate on projects
