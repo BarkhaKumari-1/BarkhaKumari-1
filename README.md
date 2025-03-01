@@ -17,10 +17,7 @@
 ## 📌 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarkhaKumari-1&layout=compact&theme=radical)
 ---
-## 🛠 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
+
 <!---
 BarkhaKumari-1/BarkhaKumari-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
