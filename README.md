@@ -35,7 +35,9 @@
 ## 📊 GitHub Stats  
 ![Barkha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarkhaKumari-1&show_icons=true&theme=radical)
 ---
-
+ ## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BarkhaKumari-1&theme=radical)
+---
 ## 📌 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarkhaKumari-1&layout=compact&theme=radical)
 ---
