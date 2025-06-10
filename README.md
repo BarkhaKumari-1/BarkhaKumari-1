@@ -38,6 +38,9 @@
  ## 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BarkhaKumari-1&theme=radical)
 ---
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=BarkhaKumari-1&theme=radical)
+---
 ## 📌 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarkhaKumari-1&layout=compact&theme=radical)
 ---
